@@ -35,3 +35,5 @@ The dashboard transforms the raw dataset into a high-level summary for stakehold
 -<A HREF="https://github.com/Prasanta-ai/Excel-Projects/blob/main/Screenshot%202026-02-10%20212824.png"> DASHBOARD VIEW
 
 <img width="1417" height="651" alt="Screenshot 2026-02-10 212824" src="https://github.com/user-attachments/assets/2bdbe6c0-dbae-4ef0-9221-58d56f87438d" />
+
+#ExcelDashboard #DataVisualization #SalesPerformance #Excel #ExcelMacros #PivotTables #DataAnalysis #InteractiveDashboard #MicrosoftExcel #SalesPerformance #ReportingAutomation #RegionalSales #TargetTracking
